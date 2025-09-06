@@ -1,0 +1,5 @@
+# Windows端口转发管理工具依赖
+# 注意：threading, socket, time, logging, json, tkinter 都是Python内置模块，无需安装
+# 如果需要更高级的功能，可以添加以下可选依赖：
+# psutil>=5.9.0  # 用于系统监控（可选）
+# pywin32>=306   # 用于Windows特定功能（可选）
